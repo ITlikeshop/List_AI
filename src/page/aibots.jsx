@@ -73,7 +73,7 @@ export const aiBots = [
   },
   {
     id: 9,
-    name: "HuggingFace Spaces (Thai models)",
+    name: "HuggingFace Spaces",
     creator: "Hugging Face",
     strengths: "รวมโมเดลโอเพนซอร์สภาษาไทยหลากหลาย",
     highlight: "ใช้ผ่านเว็บง่าย, ทดลองฟรี",
